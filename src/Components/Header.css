@@ -1,0 +1,12 @@
+.header {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: white;
+}
+
+.header img {
+    width: 150px;
+    height: 150px;
+}
